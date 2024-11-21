@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mongo-deviexpress
+  name: mongo-devi-express
   labels:
     app: mongo-express
 spec:
